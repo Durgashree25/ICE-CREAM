@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ICE%20CREAM/static/css/main.942d6e6d.css",
-    "main.js": "/ICE%20CREAM/static/js/main.38eead63.js",
-    "static/js/453.c6a007a0.chunk.js": "/ICE%20CREAM/static/js/453.c6a007a0.chunk.js",
-    "static/media/dashboard.png": "/ICE%20CREAM/static/media/dashboard.ba11f095fc4feba2296b.png",
-    "index.html": "/ICE%20CREAM/index.html",
-    "main.942d6e6d.css.map": "/ICE%20CREAM/static/css/main.942d6e6d.css.map",
-    "main.38eead63.js.map": "/ICE%20CREAM/static/js/main.38eead63.js.map",
-    "453.c6a007a0.chunk.js.map": "/ICE%20CREAM/static/js/453.c6a007a0.chunk.js.map"
+    "main.css": "/ICE-CREAM/static/css/main.942d6e6d.css",
+    "main.js": "/ICE-CREAM/static/js/main.e8a13019.js",
+    "static/js/453.c6a007a0.chunk.js": "/ICE-CREAM/static/js/453.c6a007a0.chunk.js",
+    "static/media/dashboard.png": "/ICE-CREAM/static/media/dashboard.ba11f095fc4feba2296b.png",
+    "index.html": "/ICE-CREAM/index.html",
+    "main.942d6e6d.css.map": "/ICE-CREAM/static/css/main.942d6e6d.css.map",
+    "main.e8a13019.js.map": "/ICE-CREAM/static/js/main.e8a13019.js.map",
+    "453.c6a007a0.chunk.js.map": "/ICE-CREAM/static/js/453.c6a007a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.942d6e6d.css",
-    "static/js/main.38eead63.js"
+    "static/js/main.e8a13019.js"
   ]
 }
