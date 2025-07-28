@@ -6,6 +6,8 @@ import vanillaImg from "./vanilla.png";
 import chocolateImg from "./chocolate.png";
 import strawberryImg from "./strawberry.png";
 import mangoImg from "./mango.png";
+import pistachio from "./pistachio.png";
+import blueberry from "./blueberry.png";
 
 // 🍦 Inline FlavorSlider Component
 function FlavorSlider() {
@@ -14,7 +16,9 @@ function FlavorSlider() {
     { name: "🍫 Chocolate Thunder", img: chocolateImg },
     { name: "🍓 Strawberry Dream", img: strawberryImg },
     { name: "🥭 Mango Tango", img: mangoImg },
-  ];
+   { name: "🍐 Nutty Pistachio", img: pistachioImg },
+    { name: "🫐 Delight BlueBerry", img: blueberryImg}
+      ];
 
   return (
     <section id="flavors" className="section">
