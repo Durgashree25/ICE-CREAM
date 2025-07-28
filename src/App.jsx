@@ -16,8 +16,8 @@ function FlavorSlider() {
     { name: "🍫 Chocolate Thunder", img: chocolateImg },
     { name: "🍓 Strawberry Dream", img: strawberryImg },
     { name: "🥭 Mango Tango", img: mangoImg },
-   { name: "🍐 Nutty Pistachio", img: pistachioImg },
-    { name: "🫐 Delight BlueBerry", img: blueberryImg}
+   { name: "🍐 Nutty Pistachio", img: pistachio },
+    { name: "🫐 Delight BlueBerry", img: blueberry}
       ];
 
   return (
